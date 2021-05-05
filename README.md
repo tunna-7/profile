@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Wunnava😁</h1>
 <h3 align="center">Exploring the MATRIX😏💻</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username= tunna-7> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username= tunna-7 /> </p>
 
 - 🌱 I’m currently learning **Node Js, Express, Mongo DB (Backend)**
 
