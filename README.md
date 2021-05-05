@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayush-wunnava/](https://www.linkedin.com/in/ayush-wunnava/)
 
-- ⚡ Fun fact **Hit me up if you like Manchester United😎**
+- ⚡ Fun fact **Hit me up if you ❤ Manchester United😎**
 
 
 <h3 align="left">Languages and Tools:</h3>
