@@ -3,9 +3,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=tunna-7 alt=tunna-7/> </p>
 
-- 🌱 I’m currently learning **Node Js, Express, Mongo DB (Backend)**
-
-- 💬 Ask me about **Front End, Flutter and Node Js**
+- 🌱 I’m currently learning **Blockchain, Data Structures**
 
 - 📫 How to reach me **wayush7@gmail.com**
 
